@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="append_image.png">resource/images/append_image.png</file>
+        <file alias="append_image_hovered.png">resource/images/append_image_hovered.png</file>
+        <file alias="splash_screen.png">resource/images/splash_screen.png</file>
+        <file alias="logo.png">resource/images/logo.png</file>
+    </qresource>
+    <qresource prefix="/favicons">
+        <file alias="favicon_16x16.ico">resource/favicons/favicon_16x16.ico</file>
+        <file alias="favicon_32x32.ico">resource/favicons/favicon_32x32.ico</file>
+        <file alias="favicon_64x64.ico">resource/favicons/favicon_64x64.ico</file>
+    </qresource>
+</RCC>
